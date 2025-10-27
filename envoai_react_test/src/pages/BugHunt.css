@@ -16,6 +16,11 @@
   margin-bottom: 1rem;
 }
 
+.section p {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
 .hint {
   margin-top: 1rem;
   padding: 0.75rem;
@@ -54,6 +59,7 @@
   justify-content: space-between;
   padding: 0.75rem 0;
   font-size: 1.1rem;
+  color: #333;
 }
 
 .total-row.final {
@@ -63,6 +69,7 @@
   font-weight: bold;
   font-size: 1.3rem;
   color: #667eea;
+  
 }
 
 .discount-input {
@@ -73,6 +80,7 @@
   border-top: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
   margin: 0.5rem 0;
+  color: #333;
 }
 
 .discount-input label {
